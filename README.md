@@ -1,3 +1,3 @@
-# Softuni Java Web Course Exams Projects
-## Preparation Exams Projects
-## Regular Exam Project
+# Softuni Java Web Course Exam Projects
+  - ## Preparation Exam Projects
+  - ## Regular Exam Project
